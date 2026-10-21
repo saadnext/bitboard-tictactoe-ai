@@ -31,7 +31,7 @@ Make sure you have a modern compiler supporting **C++20** (GCC 10+, Clang 10+, o
 
 ```bash
 # Clone the repository
-git clone [https://github.com](https://github.com/saadnext/bitboard-tictactoe-ai)
+git clone https://github.com/saadnext/bitboard-tictactoe-ai
 cd bitboard-tictactoe-ai
 
 # Create a build directory
