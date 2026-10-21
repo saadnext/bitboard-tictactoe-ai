@@ -1,0 +1,6 @@
+# Prerequisites
+build*/
+scratch/
+out/
+.cache/
+
